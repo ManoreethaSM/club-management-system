@@ -1,1 +1,1 @@
-# club-management-system
+Rotaract Club Management System
